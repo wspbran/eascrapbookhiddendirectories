@@ -7,4 +7,4 @@ layout: home
 
 ![Orion Drift Metics Site](/docs/ODMS.png)
 
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
+[Go To Site](https://app.eascrapbook.org/fleets){: .btn .btn-purple }
