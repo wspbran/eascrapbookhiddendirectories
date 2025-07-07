@@ -17,6 +17,8 @@ layout: home
 
 **The *EA Scrapbook "Metrics Data"* site displays in raw code, server player counts. It is unclear on how to understand it from the human eye, but it is the code that the main *"Fleet Metrics Over Time"* site displays in an understandable graph.**
 
+[Go To Site](https://app.eascrapbook.org/fleets/data){: .btn .btn-purple }
+
 ## API
 
 ### API Status
@@ -33,8 +35,13 @@ If the site displays Healthy, the API is running.
 {: .label .label-red }
 If the site displays ???, the API isnt running.
 
+[Go To Site](https://app.eascrapbook.org/api/health){: .btn .btn-purple }
+
 ### API Version
 
 ![EA Scrapbook API Version Site](https://raw.githubusercontent.com/wspbran/eascrapbookhiddendirectories/refs/heads/main/docs/APIVERSION.png)
 
 **The *EA Scrapbook "API Version"* site displays the API's current version.**
+
+[Go To Site](https://app.eascrapbook.org/api/version){: .btn .btn-purple }
+
