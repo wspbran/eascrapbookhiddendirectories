@@ -29,10 +29,12 @@ Healthy
 {: .label .label-green }
 If the site displays Healthy, the API is running.
 
-Deprecated
+???
 {: .label .label-red }
 If the site displays ???, the API isnt running.
 
 ### API Version
 
 ![EA Scrapbook API Version Site](https://raw.githubusercontent.com/wspbran/eascrapbookhiddendirectories/refs/heads/main/docs/APIVERSION.png)
+
+**The *EA Scrapbook "API Version"* site displays the API's current version.**
