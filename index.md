@@ -27,6 +27,11 @@ layout: home
 
 Healthy
 {: .label .label-green }
+If the site displays Healthy, the API is running.
+
+Deprecated
+{: .label .label-red }
+If the site displays ???, the API isnt running.
 
 ### API Version
 
