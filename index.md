@@ -4,3 +4,6 @@ layout: home
 ---
 
 EEEEE
+
+
+[Link button](https://just-the-docs.com){: .btn .btn-purple }
