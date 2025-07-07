@@ -3,6 +3,10 @@ title: EA Scrap Book Hidden Directories
 layout: home
 ---
 
+# EA Scrap Book Hidden Directories
+
+**Heya Jonesy if you see this, dont kill me cause i used a GitHub Pages Template, FIRST I dont have a server, SECOND, i dont know how to code.
+
 ## Metrics
 
 ![EA Scrapbook Metics Site](https://raw.githubusercontent.com/wspbran/eascrapbookhiddendirectories/refs/heads/main/docs/ODMSNEW.png)
