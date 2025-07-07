@@ -5,7 +5,7 @@ layout: home
 
 # EA Scrap Book Hidden Directories
 
-**Heya Jonesy if you see this, dont kill me cause i used a GitHub Pages Template, FIRST I dont have a server, SECOND, i dont know how to code.
+**Heya Jonesy if you see this, dont kill me cause i used a GitHub Pages Template, FIRST I dont have a server, SECOND, i dont know how to code.**
 
 ## Metrics
 
